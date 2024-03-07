@@ -1,0 +1,6 @@
+{
+  "type": "module",
+  "dependencies": {
+    "icloud-shared-album": "^1.1.0"
+  }
+}
